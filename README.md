@@ -1,7 +1,7 @@
 # 🎥 Smart Video Analyzer 🧠  
 
 ## Overview  
-Smart Video Analyzer is an AI-powered application that enables users to analyze, understand, and extract insights from video files. It leverages Google's **Gemini AI** and **DuckDuckGo search** to enhance analysis by gathering supplementary information.  
+Smart Video Analyzer is an AI-powered application that enables users to analyze, understand, and extract insights from video files. It uses Google's **Gemini AI** and **DuckDuckGo search** to enhance analysis by gathering supplementary information.  
 
 ## Features  
 ✅ **AI-Driven Video Analysis**: Upload a video and ask any question about its content.  

@@ -19,7 +19,7 @@ Smart Video Analyzer is an AI-powered application that enables users to analyze,
 - **LocalTunnel** (For Public Access)
 
 ## How It Works  
-1. Refer the Jupyter Notebook,  **'AI_Powered_Video_Analyzer_Tarun Behera.ipynb' to understand how the run the application**.
+1. Refer the Jupyter Notebook,  **'AI_Powered_Video_Analyzer_Tarun Behera.ipynb' to understand how to run the application**.
 2. **Upload a video file** (`mp4`, `mov`, `avi`).
 3. **Enter your query** about the video content.  
 4. Click **"Analyze Video"** and let AI process it.  
